@@ -1,1 +1,0 @@
-# Stock-Mangement-System
